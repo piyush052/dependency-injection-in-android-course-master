@@ -9,6 +9,7 @@ local.properties
 .idea/libraries/
 .idea/caches/
 .DS_Store
+.idea/
 
 captures
 .externalNativeBuild
